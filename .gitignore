@@ -1,0 +1,26 @@
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec.bak
+SyncroTech_ODB_Release.zip
+SyncroTech_ODB_Release/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Large binaries & runtime extracted folders
+**/_internal/
+*.exe
+
+# Backups
+*_backup/
+*_backup.*

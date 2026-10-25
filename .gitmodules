@@ -1,0 +1,3 @@
+[submodule "datalogger_repo"]
+	path = datalogger_repo
+	url = https://github.com/odayupha/Data-Logger-Garuda-Indonesia.git
